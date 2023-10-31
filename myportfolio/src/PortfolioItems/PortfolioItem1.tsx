@@ -58,7 +58,7 @@ function hamburgerClick(){
             <p>
             During my second year of schooling at Saskatchewan Polytech, I was given the opportunity to work with DICE. They needed help creating a web based solution for tracking expenses and progress for their projects.
             </p>
-            <img src={require('../images/Rectangle 3-19@2x.png')} alt="2nd portfolio pic" />
+            {/* <img src={require('../images/Rectangle 3-19@2x.png')} alt="2nd portfolio pic" /> */}
             <p>
             The projects were funded by grants, and there were milestones to be achieved by certain dates. In order to track the project, we had to parse through employee paystubs to see if they were working on the project and for how long. Then we were able to see how much time and money was being spent on the project. 
             Using an open library, we created a projection chart showing the expenses used in contrast with the end date, and what was to be the expected projection of the expenses.
